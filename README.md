@@ -30,7 +30,8 @@ location including a sample photo from the incident scene.
 
 # Check it out!
 - open our jupyter notebook using google colab.
-- add the required files to your drive by adding a shortcut of the folder in the following link: (https://drive.google.com/open?id=1aQ0RjFUP2yyMIGbB2TSzao5ZGr7NnUs6)
+- add the required files to your drive by adding a shortcut of the folder in the following link:
+(https://drive.google.com/open?id=1aQ0RjFUP2yyMIGbB2TSzao5ZGr7NnUs6)
 - Then mount your drive using the first cell in our notebook.
 - After running all the cells you can upload any video and detect if it contains fire, violence or car accidents scenes.
 
